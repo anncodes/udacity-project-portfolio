@@ -2,9 +2,9 @@
 ## Project 2 - Build a Portfolio
 #
 ##Includes
-/css
-/images
-/js
-/fonts
-index.html
+/css <br>
+/images <br>
+/js <br>
+/fonts <br>
+index.html <br>
 
